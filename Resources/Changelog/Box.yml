@@ -153,3 +153,10 @@
   id: 20
   time: '2025-09-06T19:44:48.0000000+00:00'
   url: https://github.com/ss14-boxstation/ss14-boxstation/pull/32
+- author: BlueMoon059
+  changes:
+  - message: the extended announcement has been removed, as it is not fit for purpose.
+    type: Remove
+  id: 21
+  time: '2025-09-08T21:35:41.0000000+00:00'
+  url: https://github.com/ss14-boxstation/ss14-boxstation/pull/33
