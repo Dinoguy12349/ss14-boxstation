@@ -14,9 +14,8 @@
   - Fingerprint
   - NpcFactionMember
   # traits
-  - BlackAndWhiteOverlay
-  - Clumsy
   # - LegsParalyzed (you get healed)
+  - BlackAndWhiteOverlay
   - LightweightDrunk
   - Muted
   - Narcolepsy
@@ -27,6 +26,14 @@
   - Snoring
   - Unrevivable
   - Uncloneable # Harmony
+  # job specific
+  - BibleUser
+  - CommandStaff
+  - Clumsy
+  - MindShield
+  - MimePowers
+  - SpaceNinja
+  - Thieving
   # accents
   - Accentless
   - BackwardsAccent
@@ -65,18 +72,7 @@
   - Speech # For raisedBy traits
   # Hamrony addons end
 
-# for job-specific traits etc.
-- type: cloningSettings
-  id: Special
-  components:
-  - BibleUser
-  - CommandStaff
-  - MindShield
-  - MimePowers
-  - SpaceNinja
-  - Thieving
-
-# antag roles
+# all antagonist roles
 - type: cloningSettings
   id: Antag
   components:
@@ -100,7 +96,7 @@
 # for cloning pods
 - type: cloningSettings
   id: CloningPod
-  parent: [BaseClone, Antag]
+  parent: Antag
   forceCloning: false
   copyEquipment: null
   copyInternalStorage: false
@@ -138,6 +134,7 @@
   copyImplants: false
 
 # spawner
+
 - type: entity
   id: RandomCloneSpawner
   name: Random Clone
