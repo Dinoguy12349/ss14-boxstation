@@ -1,4 +1,5 @@
-using Content.Shared.Kitchen;
+// Box Change Start - Remove WizDen Content Freeze Tests
+/* using Content.Shared.Kitchen;
 
 namespace Content.IntegrationTests.Tests.WizdenContentFreeze;
 
@@ -39,3 +40,5 @@ public sealed class WizdenContentFreeze
         await pair.CleanReturnAsync();
     }
 }
+*/
+// Box Change End
