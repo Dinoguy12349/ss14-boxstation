@@ -1,0 +1,23 @@
+reagent-name-emergency-defragmentor = emergency defragmentor
+reagent-desc-emergency-defragmentor = An advanced nanite program that undoes data corruption in synthetic lifeforms in a pinch. It exerts great stress on the body and components of the synthetic.
+
+reagent-name-cryostabilized-defragmentor = cryostabilized defragmentor
+reagent-desc-cryostabilized-defragmentor = A more reliable nanite program utilizing supercondutors to undo data corruption in synthetic lifeforms. Only works in cyrogenic conditons.
+
+reagent-name-polydimethylsiloxane = polydimethylsiloxane
+reagent-desc-polydimethylsiloxane = A silicone polymer with a wide variety of uses. Capable of sealing damage to coolant and lubricant lines in synthetic lifeforms.
+
+reagent-name-overclocker = overclocker
+reagent-desc-overclocker = An emergency nanite program capable of giving synthetic lifeforms a boost in dangerous circumstances, at the cost of component degredation.
+
+reagent-name-recal = recal
+reagent-desc-recal = An oily insulating liquid that passively regulates electrical activity on sensitive electronic components, allowing them to recover from decalibrating events faster. Overdosing will cause under-voltage errors and hamper component heat dissipation, potentially causing heat damage.
+
+reagent-name-smart-metal = smart metal
+reagent-desc-smart-metal = An exotic liquid metal alloy that flows into cracks, fractures, and other surface imperfections before solidifying to patch up damaged components.
+
+reagent-name-liquid-solder = liquid solder
+reagent-desc-liquid-solder = A solution formulated to clean and repair damaged connections in posibrains while in use.
+
+reagent-name-degreaser = degreaser
+reagent-desc-degreaser = An industrial degreaser which can be used to clean residual build-up from machinery and surfaces.
