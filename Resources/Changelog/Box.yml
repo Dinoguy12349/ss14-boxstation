@@ -160,3 +160,40 @@
   id: 21
   time: '2025-09-08T21:35:41.0000000+00:00'
   url: https://github.com/ss14-boxstation/ss14-boxstation/pull/33
+- author: CollectionOfBones128
+  changes:
+  - message: IPCs are now capable of using a suite of new and unique chemicals
+    type: Add
+  - message: New chemicals have been added to act as components for IPC chem. These
+      have their own unique effects
+    type: Add
+  - message: IPCs are now capable of taking Data damage, a synthetic counterpart to
+      Cellular.
+    type: Add
+  - message: IPCs can now smoke
+    type: Add
+  - message: IPCs can now sleep
+    type: Add
+  - message: A suite of existing chemicals now have unique effects when metabolized
+      by IPCs
+    type: Tweak
+  - message: IPCs now have a unique brain sprite
+    type: Tweak
+  - message: Computer Coolant now restores IPC blood levels if injected.
+    type: Tweak
+  - message: Industrial Lubricant now restores IPC blood levels if injected
+    type: Tweak
+  - message: IPC Oil can now be centrifuged into Computer Coolant and Industrial Lubricant
+    type: Tweak
+  id: 22
+  time: '2025-09-30T22:05:42.0000000+00:00'
+  url: https://github.com/ss14-boxstation/ss14-boxstation/pull/36
+- author: CollectionOfBones128
+  changes:
+  - message: All Harmony changes before 24/09/2025 have been merged.
+    type: Add
+  - message: Vulpkanin have new sprites
+    type: Tweak
+  id: 23
+  time: '2025-09-27T02:09:53.0000000+00:00'
+  url: https://github.com/ss14-boxstation/ss14-boxstation/pull/35
