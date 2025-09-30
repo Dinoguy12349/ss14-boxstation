@@ -197,3 +197,12 @@
   id: 23
   time: '2025-09-27T02:09:53.0000000+00:00'
   url: https://github.com/ss14-boxstation/ss14-boxstation/pull/35
+- author: BlueMoon059
+  changes:
+  - message: Adds new markings that resemble Protogens for IPCs.
+    type: Add
+  - message: IPCs can now apply two eye/snout markings (up from one).
+    type: Tweak
+  id: 24
+  time: '2025-09-30T22:09:43.0000000+00:00'
+  url: https://github.com/ss14-boxstation/ss14-boxstation/pull/38
