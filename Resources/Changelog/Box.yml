@@ -206,3 +206,38 @@
   id: 24
   time: '2025-09-30T22:09:43.0000000+00:00'
   url: https://github.com/ss14-boxstation/ss14-boxstation/pull/38
+- author: CollectionOfBones128
+  changes:
+  - message: IPCs can now eat and drink
+    type: Tweak
+  - message: Certain reagents have had their metabolism types changed because IPCs
+      can now drink
+    type: Tweak
+  - message: Roburgers now have Polydimethylsiloxane in them instead of Sulfuric Acid
+    type: Tweak
+  - message: Added Synthanol, a synthetic counterpart to ethanol that everyone can
+      drink but only IPCs can get drunk from
+    type: Add
+  - message: Added 7 new drinks that use Synthanol
+    type: Add
+  id: 25
+  time: '2025-10-07T04:03:38.0000000+00:00'
+  url: https://github.com/ss14-boxstation/ss14-boxstation/pull/40
+- author: CollectionOfBones128
+  changes:
+  - message: Adds Mechazine, a better Surge that is made with Vestine
+    type: Add
+  - message: Adds Routine Maintenance, an IPC Chem easily creatable by chemistry with
+      limited healing properties
+    type: Add
+  - message: Adds Nanoweldite, an IPC Chem with potent healing properties
+    type: Add
+  - message: Adds SOI Sapphire, an IPC Chem that gives Radiation resistance
+    type: Add
+  - message: Adds ECC Memory, an IPC Chem for treading Radiation damage
+    type: Add
+  - message: Adds Thermal Paste, an IPC Chem capable of stabilizing temperature
+    type: Add
+  id: 26
+  time: '2025-10-08T09:32:00.0000000+00:00'
+  url: https://github.com/ss14-boxstation/ss14-boxstation/pull/41

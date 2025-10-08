@@ -21,3 +21,18 @@ reagent-desc-liquid-solder = A solution formulated to clean and repair damaged c
 
 reagent-name-degreaser = degreaser
 reagent-desc-degreaser = An industrial degreaser which can be used to clean residual build-up from machinery and surfaces.
+
+reagent-name-routine-maintenance = routine maintenance
+reagent-desc-routine-maintenance = A general purpose repairing nanite suspension capable of handling most low-impact damages to synthetic lifeforms.
+
+reagent-name-nanoweldite = nanoweldite
+reagent-desc-nanoweldite = A nanite suspension equiped with hyper-efficient nanowelders. It can't tell the difference between organics and synthetics.
+
+reagent-name-soi-sapphire = SOI sapphire
+reagent-desc-soi-sapphire = Deposits a temporary protective layer of sapphire on vital components in synthetic lifeforms, reducing the effects of radiation by 90%. Not recommended for use by organics.
+
+reagent-name-ecc-memory = ECC memory
+reagent-desc-ecc-memory = A nanite program capable of detecting and correcting n-bit errors caused by radiation.
+
+reagent-name-thermal-paste = thermal paste
+reagent-desc-thermal-paste = A thermal paste specifically engineered for synthetic lifeforms, capable of returning them to operational temperatures.
